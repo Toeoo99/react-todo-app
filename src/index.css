@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: lavender;
+  font-size: 1.2em;
+}
+footer {
+  text-align: center;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+}
+.bg-footer {
+  background-color: darkblue;
+}
+.text-footer {
+  color: #fff;
+}
